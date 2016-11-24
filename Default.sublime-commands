@@ -1,0 +1,6 @@
+[
+    {
+        "caption" : "Romanize: Convert to Latin alphabet",
+        "command" : "romanize"
+    }
+]

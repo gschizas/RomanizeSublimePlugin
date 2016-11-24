@@ -1,0 +1,13 @@
+{
+  "name": "Romanize",
+  "description": "Transcribes text from Greek to Latin using ISO843:1999.",
+  "author": "George Schizas",
+  "details": "https://github.com/gschizas/RomanizeSublimePlugin",
+  "labels": ["text manipulation"],
+  "releases": [
+    {
+      "details": "https://github.com/gschizas/RomanizeSublimePlugin",
+      "sublime_text": ">=3000"
+    }
+  ]
+}
